@@ -96,7 +96,6 @@ function Skills() {
           scale: 0,
         },
         {
-          delay: 0.07,
           stagger: 0.05,
           ease: "elastic",
           force3D: true,
