@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <AiFillLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/bayan-abd-elbary-b294801bb/",
+      href: "www.linkedin.com/in/bayan-abd-el-bary",
       style: "rounded-tr-md",
     },
     {
